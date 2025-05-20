@@ -1,23 +1,27 @@
 # 📊 Data Mining Projects
 
-A collection of Jupyter Notebook projects from my Data Mining course. Each project includes data analysis, visualization, and machine learning techniques applied to real-world datasets.
+A collection of Jupyter Notebook projects from my Data Mining course. Each project explores a key machine learning technique—classification, regression, or clustering—using real-world datasets.
 
 ---
 
 ### 📝 Projects
 
-1. **[Portfolio Summary & Visualizations](https://sites.google.com/charlotte.edu/maesportfolio/home)**  
-   A summary site linking to all data mining projects with clean visuals and descriptions.
+1. **[PCOS Detection (Classification)](https://sites.google.com/charlotte.edu/maesportfolio/home)**  
+   Built classification models to detect Polycystic Ovary Syndrome (PCOS) using clinical and hormonal data.  
+   Focused on features like BMI, age, LH/FSH ratio, and follicle counts to predict PCOS diagnosis.
 
-2. **[Predicting Wine Quality (Regression)](https://sites.google.com/charlotte.edu/predictingwinequality/home)**  
-   Used regression models to predict wine quality based on ingredients like acidity and alcohol level.
+2. **[Wine Quality Classification](https://sites.google.com/charlotte.edu/predictingwinequality/home)**  
+   Used classification algorithms to predict wine quality categories based on physicochemical properties.  
+   Compared model performance across decision trees, random forest, and logistic regression.
 
-3. **[Wine Quality Prediction (Explained)](https://sites.google.com/charlotte.edu/wine-quality-prediction/home)**  
-   A detailed explanation of the regression process, including model training and feature importance.
+3. **[Wine Quality Prediction (Regression)](https://sites.google.com/charlotte.edu/wine-quality-prediction/home)**  
+   Applied linear regression to predict wine quality scores on a scale from 0 to 10.  
+   Analyzed feature importance and evaluated model accuracy with different preprocessing steps.
 
 4. **[Tourism and Economic Impact (Clustering)](https://sites.google.com/charlotte.edu/tourism-and-economic-impact/home)**  
-   Applied clustering to group countries based on tourism data and economic indicators to uncover patterns.
+   Clustered countries based on tourism statistics and economic indicators.  
+   Used unsupervised learning to uncover patterns and visualize groupings using K-Means.
 
 ---
 
-📁 Notebooks are available in this repository for review alongside the write-ups.
+📁 All `.ipynb` notebooks are included in this repository. Each link above leads to a full project write-up hosted on Google Sites.
